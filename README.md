@@ -1,16 +1,20 @@
-## Hi there 👋
+# Caio Naoki Sakai Shimomura
 
-<!--
-**caiosakai/caiosakai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data & Analytics Professional
 
-Here are some ideas to get you started:
+Certifications:
+- Microsoft Certified: Power BI Developer
+- Microsoft Certified: Fabric Data Engineer (DP-700)
+- Databricks Certified Data Engineer Associate
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Focus areas:
+- Data Engineering
+- Analytics
+- Data Governance
+- Cloud Architecture
+
+Projects:
+- Data Lakehouse Architecture
+- Unity Catalog Governance Framework
+- Power BI Executive Dashboard
+- End-to-End Data Platform
